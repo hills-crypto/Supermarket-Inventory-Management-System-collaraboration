@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Supermarket Inventory Management & Analytics System
 
 An intelligent data management and analytics application built in Python, designed to satisfy the requirements of the Python Programming Assignment.
@@ -47,3 +48,7 @@ supermarket_system/
 ├── supermarket_500.csv       # Benchmark Dataset (>= 500 records)
 ├── system_activity.log       # System Audit Event Log
 └── README.md                 # Project Documentation
+=======
+# Supermarket-Inventory-Management-System-collaraboration
+An Intelligent Supermarket Inventory Management and Analytics System in Python demonstrating OOP, custom algorithms, validation rules, Matplotlib analytics, and automated reporting.
+>>>>>>> 825cf6db27858d1ca1e60c09ac81174cb3913310
