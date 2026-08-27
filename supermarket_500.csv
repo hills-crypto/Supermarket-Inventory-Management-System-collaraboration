@@ -1,0 +1,505 @@
+product_id,name,category,price,stock,min_reorder
+PRD-1001,Juice Brand-7,Produce,8.94,46,29
+PRD-1002,Apples Brand-22,Dairy,18.2,22,25
+PRD-1003,Flour Brand-5,Canned Goods,23.26,21,30
+PRD-1004,Rice Brand-39,Beverages,35.74,65,11
+PRD-1005,Juice Brand-27,Produce,43.66,21,25
+PRD-1006,Salt Brand-26,Personal Care,10.81,24,18
+PRD-1007,Bread Brand-2,Produce,38.93,49,24
+PRD-1008,Bread Brand-14,Canned Goods,4.49,27,20
+PRD-1009,Soap Brand-4,Cleaning,28.78,26,15
+PRD-1010,Apples Brand-43,Bakery,31.28,80,15
+PRD-1011,Sugar Brand-8,Cleaning,16.55,25,14
+PRD-1012,Biscuits Brand-37,Cleaning,20.98,9,24
+PRD-1013,Flour Brand-18,Meat,7.19,52,18
+PRD-1014,Soap Brand-45,Beverages,17.93,45,29
+PRD-1015,Chicken Brand-18,Cleaning,21.96,64,21
+PRD-1016,Rice Brand-13,Canned Goods,18.83,33,14
+PRD-1017,Chicken Brand-28,Canned Goods,3.43,0,17
+PRD-1018,Salt Brand-30,Cleaning,12.51,61,27
+PRD-1019,Milk Brand-25,Meat,43.7,16,19
+PRD-1020,Flour Brand-50,Canned Goods,19.85,33,12
+PRD-1021,Flour Brand-23,Meat,5.4,77,23
+PRD-1022,Apples Brand-7,Cleaning,17.04,25,11
+PRD-1023,Chicken Brand-26,Dairy,31.89,73,14
+PRD-1024,Milk Brand-21,Personal Care,32.66,28,28
+PRD-1025,Chicken Brand-41,Cleaning,6.62,42,10
+PRD-1026,Biscuits Brand-16,Personal Care,29.16,40,28
+PRD-1027,Rice Brand-6,Meat,21.1,30,29
+PRD-1028,Biscuits Brand-23,Bakery,6.37,55,29
+PRD-1029,Biscuits Brand-48,Meat,23.85,51,15
+PRD-1030,Milk Brand-15,Meat,37.94,49,30
+PRD-1031,Biscuits Brand-13,Meat,28.71,20,19
+PRD-1032,Rice Brand-46,Bakery,12.11,87,19
+PRD-1033,Chicken Brand-44,Cleaning,17.02,18,28
+PRD-1034,Milk Brand-28,Personal Care,19.78,0,11
+PRD-1035,Biscuits Brand-10,Beverages,28.82,8,25
+PRD-1036,Sugar Brand-16,Meat,21.07,53,29
+PRD-1037,Chicken Brand-24,Cleaning,9.61,2,24
+PRD-1038,Chicken Brand-1,Beverages,4.13,91,30
+PRD-1039,Biscuits Brand-13,Bakery,38.91,30,14
+PRD-1040,Flour Brand-46,Dairy,37.93,48,29
+PRD-1041,Soap Brand-37,Personal Care,1.73,92,24
+PRD-1042,Rice Brand-45,Beverages,25.01,33,21
+PRD-1043,Biscuits Brand-3,Canned Goods,22.69,7,13
+PRD-1044,Biscuits Brand-16,Bakery,5.94,1,14
+PRD-1045,Flour Brand-45,Bakery,2.93,90,22
+PRD-1046,Soap Brand-46,Produce,11.03,80,18
+PRD-1047,Chicken Brand-37,Bakery,33.42,73,14
+PRD-1048,Juice Brand-12,Dairy,29.63,87,16
+PRD-1049,Rice Brand-10,Bakery,21.37,100,24
+PRD-1050,Chicken Brand-21,Produce,40.56,25,16
+PRD-1051,Sugar Brand-16,Canned Goods,16.85,24,30
+PRD-1052,Apples Brand-18,Dairy,18.48,82,14
+PRD-1053,Biscuits Brand-43,Beverages,39.64,40,12
+PRD-1054,Apples Brand-37,Produce,43.36,88,24
+PRD-1055,Juice Brand-18,Produce,28.97,3,25
+PRD-1056,Soap Brand-31,Dairy,15.77,20,13
+PRD-1057,Chicken Brand-21,Meat,13.16,98,23
+PRD-1058,Sugar Brand-20,Produce,28.78,62,24
+PRD-1059,Cooking Oil Brand-48,Personal Care,8.25,90,19
+PRD-1060,Sugar Brand-5,Personal Care,13.38,41,30
+PRD-1061,Rice Brand-18,Canned Goods,10.03,68,13
+PRD-1062,Milk Brand-43,Meat,33.08,57,29
+PRD-1063,Milk Brand-43,Personal Care,38.57,81,25
+PRD-1064,Chicken Brand-27,Personal Care,11.24,16,13
+PRD-1065,Bread Brand-42,Dairy,27.58,38,14
+PRD-1066,Rice Brand-44,Personal Care,33.61,14,19
+PRD-1067,Chicken Brand-27,Meat,14.56,8,14
+PRD-1068,Bread Brand-27,Beverages,1.73,29,24
+PRD-1069,Bread Brand-4,Personal Care,24.98,99,14
+PRD-1070,Sugar Brand-31,Dairy,26.49,33,11
+PRD-1071,Bread Brand-39,Produce,36.49,64,14
+PRD-1072,Bread Brand-27,Produce,30.72,38,17
+PRD-1073,Bread Brand-48,Meat,13.61,27,25
+PRD-1074,Milk Brand-5,Beverages,42.99,37,15
+PRD-1075,Flour Brand-22,Cleaning,31.86,86,26
+PRD-1076,Cooking Oil Brand-50,Personal Care,23.18,16,30
+PRD-1077,Soap Brand-27,Dairy,41.82,71,21
+PRD-1078,Salt Brand-26,Meat,31.05,62,11
+PRD-1079,Soap Brand-49,Canned Goods,31.39,71,11
+PRD-1080,Rice Brand-23,Produce,11.81,57,30
+PRD-1081,Flour Brand-43,Produce,31.8,73,21
+PRD-1082,Juice Brand-16,Cleaning,2.18,60,18
+PRD-1083,Salt Brand-50,Personal Care,5.69,44,23
+PRD-1084,Milk Brand-48,Beverages,35.58,64,17
+PRD-1085,Rice Brand-37,Personal Care,8.17,30,16
+PRD-1086,Juice Brand-41,Personal Care,35.11,35,19
+PRD-1087,Bread Brand-14,Meat,8.66,49,22
+PRD-1088,Chicken Brand-11,Meat,3.86,85,16
+PRD-1089,Soap Brand-50,Personal Care,41.56,85,20
+PRD-1090,Flour Brand-33,Meat,27.57,46,17
+PRD-1091,Rice Brand-48,Produce,34.01,6,15
+PRD-1092,Soap Brand-48,Beverages,43.04,36,12
+PRD-1093,Flour Brand-15,Produce,3.73,100,18
+PRD-1094,Soap Brand-39,Personal Care,27.26,80,11
+PRD-1095,Apples Brand-16,Bakery,4.38,36,23
+PRD-1096,Juice Brand-33,Bakery,20.2,17,12
+PRD-1097,Cooking Oil Brand-9,Cleaning,5.73,13,10
+PRD-1098,Biscuits Brand-23,Canned Goods,19.09,66,22
+PRD-1099,Soap Brand-46,Cleaning,39.56,27,29
+PRD-1100,Sugar Brand-33,Meat,7.18,31,18
+PRD-1101,Bread Brand-4,Canned Goods,29.96,26,23
+PRD-1102,Flour Brand-41,Canned Goods,26.63,88,29
+PRD-1103,Salt Brand-35,Meat,40.88,44,30
+PRD-1104,Salt Brand-37,Beverages,17.1,3,13
+PRD-1105,Flour Brand-31,Produce,26.52,11,10
+PRD-1106,Soap Brand-14,Bakery,27.82,75,24
+PRD-1107,Biscuits Brand-25,Bakery,34.38,72,16
+PRD-1108,Biscuits Brand-45,Cleaning,31.04,30,24
+PRD-1109,Rice Brand-34,Canned Goods,41.33,33,18
+PRD-1110,Sugar Brand-22,Beverages,25.94,40,15
+PRD-1111,Cooking Oil Brand-43,Canned Goods,33.45,6,11
+PRD-1112,Juice Brand-42,Bakery,15.76,0,17
+PRD-1113,Milk Brand-44,Beverages,33.32,80,22
+PRD-1114,Milk Brand-5,Produce,14.44,71,14
+PRD-1115,Sugar Brand-2,Dairy,24.29,99,26
+PRD-1116,Soap Brand-45,Bakery,8.79,33,14
+PRD-1117,Cooking Oil Brand-10,Personal Care,17.33,82,18
+PRD-1118,Chicken Brand-25,Dairy,24.66,6,19
+PRD-1119,Rice Brand-1,Meat,43.5,5,28
+PRD-1120,Cooking Oil Brand-4,Personal Care,33.2,61,14
+PRD-1121,Biscuits Brand-38,Cleaning,4.39,56,25
+PRD-1122,Cooking Oil Brand-17,Bakery,33.48,47,23
+PRD-1123,Bread Brand-31,Produce,3.97,89,21
+PRD-1124,Chicken Brand-25,Bakery,32.33,63,10
+PRD-1125,Bread Brand-50,Meat,9.06,100,23
+PRD-1126,Flour Brand-19,Produce,26.71,39,22
+PRD-1127,Rice Brand-1,Beverages,3.82,96,24
+PRD-1128,Cooking Oil Brand-31,Produce,9.65,97,13
+PRD-1129,Flour Brand-35,Cleaning,15.62,62,18
+PRD-1130,Rice Brand-42,Canned Goods,13.04,98,29
+PRD-1131,Cooking Oil Brand-39,Canned Goods,18.33,96,18
+PRD-1132,Bread Brand-21,Canned Goods,32.38,43,23
+PRD-1133,Rice Brand-14,Canned Goods,5.72,21,16
+PRD-1134,Soap Brand-8,Personal Care,9.55,53,25
+PRD-1135,Rice Brand-40,Cleaning,5.73,48,19
+PRD-1136,Apples Brand-20,Canned Goods,20.82,52,26
+PRD-1137,Cooking Oil Brand-11,Canned Goods,19.19,31,24
+PRD-1138,Sugar Brand-34,Canned Goods,16.38,77,24
+PRD-1139,Salt Brand-39,Personal Care,27.9,9,17
+PRD-1140,Sugar Brand-35,Meat,20.78,50,24
+PRD-1141,Sugar Brand-32,Personal Care,26.73,20,14
+PRD-1142,Juice Brand-2,Beverages,6.83,82,29
+PRD-1143,Sugar Brand-42,Beverages,10.43,4,16
+PRD-1144,Bread Brand-28,Beverages,39.6,79,13
+PRD-1145,Salt Brand-49,Canned Goods,5.61,50,14
+PRD-1146,Cooking Oil Brand-40,Canned Goods,12.41,38,20
+PRD-1147,Milk Brand-49,Personal Care,43.89,66,18
+PRD-1148,Sugar Brand-28,Canned Goods,7.56,84,11
+PRD-1149,Soap Brand-38,Beverages,19.87,29,13
+PRD-1150,Apples Brand-49,Dairy,14.23,32,23
+PRD-1151,Rice Brand-26,Meat,3.82,93,11
+PRD-1152,Biscuits Brand-30,Personal Care,16.91,40,22
+PRD-1153,Sugar Brand-15,Bakery,9.87,50,10
+PRD-1154,Apples Brand-49,Dairy,22.69,88,19
+PRD-1155,Bread Brand-40,Dairy,31.23,49,11
+PRD-1156,Milk Brand-15,Produce,10.03,17,30
+PRD-1157,Flour Brand-30,Dairy,3.56,56,24
+PRD-1158,Flour Brand-33,Dairy,17.03,60,27
+PRD-1159,Apples Brand-37,Canned Goods,43.74,38,19
+PRD-1160,Flour Brand-21,Personal Care,43.55,16,19
+PRD-1161,Sugar Brand-20,Cleaning,22.78,49,18
+PRD-1162,Juice Brand-46,Personal Care,18.05,46,17
+PRD-1163,Sugar Brand-34,Bakery,12.16,12,28
+PRD-1164,Rice Brand-6,Personal Care,36.17,86,19
+PRD-1165,Sugar Brand-25,Dairy,44.4,8,23
+PRD-1166,Rice Brand-6,Meat,21.96,51,21
+PRD-1167,Salt Brand-35,Personal Care,10.7,27,15
+PRD-1168,Rice Brand-11,Beverages,9.77,53,15
+PRD-1169,Juice Brand-44,Cleaning,4.95,16,19
+PRD-1170,Apples Brand-45,Dairy,32.4,7,30
+PRD-1171,Biscuits Brand-18,Dairy,31.43,17,20
+PRD-1172,Chicken Brand-39,Personal Care,34.03,78,10
+PRD-1173,Bread Brand-47,Beverages,21.34,9,14
+PRD-1174,Apples Brand-41,Produce,3.02,16,29
+PRD-1175,Cooking Oil Brand-27,Bakery,21.91,46,16
+PRD-1176,Salt Brand-12,Personal Care,15.02,31,12
+PRD-1177,Flour Brand-14,Dairy,42.16,73,21
+PRD-1178,Bread Brand-47,Produce,27.57,57,24
+PRD-1179,Sugar Brand-2,Cleaning,12.28,24,24
+PRD-1180,Salt Brand-23,Produce,15.35,86,17
+PRD-1181,Juice Brand-4,Meat,41.87,20,25
+PRD-1182,Milk Brand-18,Dairy,5.54,24,20
+PRD-1183,Soap Brand-39,Cleaning,21.93,21,16
+PRD-1184,Apples Brand-17,Canned Goods,20.02,60,10
+PRD-1185,Sugar Brand-45,Bakery,3.94,10,20
+PRD-1186,Rice Brand-40,Cleaning,25.5,78,22
+PRD-1187,Flour Brand-7,Canned Goods,42.97,20,29
+PRD-1188,Soap Brand-48,Personal Care,40.67,40,18
+PRD-1189,Milk Brand-21,Produce,28.34,77,13
+PRD-1190,Biscuits Brand-47,Dairy,23.44,9,21
+PRD-1191,Biscuits Brand-45,Meat,28.15,53,15
+PRD-1192,Soap Brand-14,Meat,14.97,28,20
+PRD-1193,Soap Brand-50,Beverages,12.89,92,26
+PRD-1194,Bread Brand-8,Cleaning,4.08,44,23
+PRD-1195,Bread Brand-11,Beverages,3.02,25,13
+PRD-1196,Cooking Oil Brand-22,Canned Goods,13.37,34,28
+PRD-1197,Chicken Brand-15,Cleaning,27.18,20,16
+PRD-1198,Juice Brand-34,Beverages,22.75,64,18
+PRD-1199,Cooking Oil Brand-7,Canned Goods,28.89,86,21
+PRD-1200,Rice Brand-8,Bakery,33.06,33,14
+PRD-1201,Soap Brand-45,Beverages,19.21,69,24
+PRD-1202,Bread Brand-39,Dairy,31.91,73,25
+PRD-1203,Rice Brand-45,Cleaning,9.67,34,23
+PRD-1204,Rice Brand-3,Produce,12.46,74,21
+PRD-1205,Salt Brand-11,Personal Care,22.26,74,18
+PRD-1206,Juice Brand-20,Beverages,2.11,84,26
+PRD-1207,Rice Brand-43,Cleaning,28.96,53,29
+PRD-1208,Chicken Brand-39,Canned Goods,21.75,15,22
+PRD-1209,Milk Brand-14,Personal Care,38.48,61,20
+PRD-1210,Flour Brand-31,Bakery,25.56,6,16
+PRD-1211,Juice Brand-30,Produce,26.1,95,20
+PRD-1212,Sugar Brand-35,Bakery,30.0,81,20
+PRD-1213,Salt Brand-15,Personal Care,44.14,72,25
+PRD-1214,Flour Brand-44,Produce,17.36,89,22
+PRD-1215,Juice Brand-13,Beverages,13.02,58,30
+PRD-1216,Cooking Oil Brand-2,Bakery,14.32,55,23
+PRD-1217,Cooking Oil Brand-4,Produce,14.44,73,22
+PRD-1218,Cooking Oil Brand-20,Beverages,14.76,26,24
+PRD-1219,Bread Brand-50,Cleaning,40.13,17,22
+PRD-1220,Salt Brand-36,Bakery,9.99,48,18
+PRD-1221,Sugar Brand-26,Bakery,26.39,64,12
+PRD-1222,Cooking Oil Brand-45,Produce,28.85,49,20
+PRD-1223,Salt Brand-26,Personal Care,26.0,58,20
+PRD-1224,Chicken Brand-19,Meat,26.2,3,25
+PRD-1225,Biscuits Brand-10,Beverages,43.3,64,14
+PRD-1226,Juice Brand-35,Beverages,43.51,67,14
+PRD-1227,Flour Brand-34,Dairy,37.84,56,14
+PRD-1228,Juice Brand-49,Meat,29.09,89,18
+PRD-1229,Milk Brand-21,Cleaning,39.24,69,29
+PRD-1230,Apples Brand-31,Bakery,25.32,22,11
+PRD-1231,Cooking Oil Brand-47,Meat,24.2,88,15
+PRD-1232,Biscuits Brand-43,Canned Goods,24.74,28,13
+PRD-1233,Salt Brand-11,Produce,30.85,66,27
+PRD-1234,Salt Brand-3,Personal Care,5.06,54,17
+PRD-1235,Bread Brand-44,Bakery,44.56,35,15
+PRD-1236,Juice Brand-43,Cleaning,34.03,87,22
+PRD-1237,Salt Brand-33,Produce,37.35,84,19
+PRD-1238,Soap Brand-7,Produce,41.52,87,15
+PRD-1239,Juice Brand-38,Meat,42.57,39,14
+PRD-1240,Flour Brand-19,Bakery,14.18,61,22
+PRD-1241,Biscuits Brand-32,Produce,25.41,31,18
+PRD-1242,Biscuits Brand-26,Bakery,43.26,55,27
+PRD-1243,Cooking Oil Brand-33,Dairy,13.97,79,29
+PRD-1244,Cooking Oil Brand-39,Canned Goods,36.41,61,30
+PRD-1245,Rice Brand-17,Personal Care,28.35,6,24
+PRD-1246,Apples Brand-11,Meat,15.6,37,25
+PRD-1247,Biscuits Brand-42,Beverages,3.64,41,18
+PRD-1248,Cooking Oil Brand-40,Bakery,6.09,74,14
+PRD-1249,Rice Brand-44,Meat,8.3,39,11
+PRD-1250,Cooking Oil Brand-11,Cleaning,8.53,9,13
+PRD-1251,Milk Brand-41,Beverages,37.04,50,28
+PRD-1252,Bread Brand-40,Personal Care,23.33,4,29
+PRD-1253,Juice Brand-4,Canned Goods,3.08,48,23
+PRD-1254,Juice Brand-42,Bakery,30.34,98,20
+PRD-1255,Salt Brand-18,Cleaning,1.98,86,15
+PRD-1256,Juice Brand-23,Beverages,14.18,14,18
+PRD-1257,Flour Brand-10,Personal Care,9.86,68,23
+PRD-1258,Cooking Oil Brand-29,Canned Goods,36.56,55,19
+PRD-1259,Cooking Oil Brand-37,Cleaning,38.58,3,16
+PRD-1260,Soap Brand-22,Cleaning,4.55,72,26
+PRD-1261,Bread Brand-46,Produce,11.06,100,20
+PRD-1262,Biscuits Brand-14,Dairy,10.58,56,25
+PRD-1263,Chicken Brand-21,Meat,33.5,94,17
+PRD-1264,Apples Brand-41,Produce,25.81,7,12
+PRD-1265,Flour Brand-22,Bakery,1.78,84,19
+PRD-1266,Juice Brand-4,Personal Care,44.42,78,24
+PRD-1267,Bread Brand-16,Beverages,14.64,77,17
+PRD-1268,Soap Brand-41,Produce,14.49,68,19
+PRD-1269,Salt Brand-23,Meat,35.33,8,24
+PRD-1270,Flour Brand-17,Canned Goods,5.3,58,14
+PRD-1271,Chicken Brand-9,Canned Goods,40.57,65,27
+PRD-1272,Chicken Brand-47,Canned Goods,14.04,59,18
+PRD-1273,Bread Brand-12,Personal Care,5.65,40,29
+PRD-1274,Milk Brand-37,Produce,38.36,47,10
+PRD-1275,Rice Brand-26,Dairy,41.31,70,14
+PRD-1276,Soap Brand-48,Cleaning,17.76,70,16
+PRD-1277,Juice Brand-35,Personal Care,13.88,54,24
+PRD-1278,Rice Brand-8,Meat,31.93,95,19
+PRD-1279,Flour Brand-48,Beverages,33.25,45,22
+PRD-1280,Rice Brand-8,Meat,3.73,90,24
+PRD-1281,Salt Brand-17,Canned Goods,23.23,82,27
+PRD-1282,Sugar Brand-36,Meat,22.25,71,29
+PRD-1283,Biscuits Brand-3,Personal Care,5.86,6,16
+PRD-1284,Apples Brand-5,Personal Care,33.86,75,23
+PRD-1285,Chicken Brand-11,Beverages,44.57,79,27
+PRD-1286,Sugar Brand-23,Bakery,21.64,7,16
+PRD-1287,Flour Brand-30,Bakery,9.21,95,25
+PRD-1288,Chicken Brand-21,Bakery,16.79,92,10
+PRD-1289,Bread Brand-43,Beverages,32.07,50,10
+PRD-1290,Cooking Oil Brand-32,Meat,12.13,50,28
+PRD-1291,Milk Brand-45,Personal Care,25.62,9,30
+PRD-1292,Flour Brand-10,Beverages,10.08,15,25
+PRD-1293,Soap Brand-39,Personal Care,14.99,82,17
+PRD-1294,Milk Brand-5,Dairy,17.42,18,14
+PRD-1295,Rice Brand-20,Dairy,2.7,3,30
+PRD-1296,Flour Brand-6,Produce,8.24,22,30
+PRD-1297,Biscuits Brand-17,Canned Goods,43.43,17,13
+PRD-1298,Flour Brand-8,Produce,8.12,1,20
+PRD-1299,Apples Brand-13,Beverages,12.83,49,15
+PRD-1300,Chicken Brand-6,Meat,4.27,65,11
+PRD-1301,Apples Brand-12,Beverages,37.13,55,23
+PRD-1302,Bread Brand-4,Meat,13.3,47,26
+PRD-1303,Apples Brand-4,Cleaning,2.58,18,20
+PRD-1304,Sugar Brand-14,Dairy,38.43,82,23
+PRD-1305,Biscuits Brand-42,Bakery,37.69,36,11
+PRD-1306,Salt Brand-33,Produce,7.58,30,28
+PRD-1307,Salt Brand-4,Produce,7.42,12,12
+PRD-1308,Bread Brand-27,Meat,40.08,31,27
+PRD-1309,Juice Brand-43,Personal Care,7.12,6,13
+PRD-1310,Rice Brand-3,Cleaning,16.07,74,11
+PRD-1311,Biscuits Brand-19,Produce,18.2,26,27
+PRD-1312,Rice Brand-36,Cleaning,18.99,75,10
+PRD-1313,Apples Brand-49,Beverages,38.67,12,19
+PRD-1314,Cooking Oil Brand-43,Cleaning,41.22,76,19
+PRD-1315,Milk Brand-37,Bakery,14.13,63,24
+PRD-1316,Rice Brand-14,Personal Care,19.58,53,20
+PRD-1317,Cooking Oil Brand-35,Meat,18.04,55,27
+PRD-1318,Chicken Brand-28,Meat,38.24,92,10
+PRD-1319,Salt Brand-30,Cleaning,15.1,31,24
+PRD-1320,Milk Brand-32,Personal Care,38.23,19,15
+PRD-1321,Apples Brand-7,Meat,40.93,79,21
+PRD-1322,Flour Brand-36,Beverages,29.56,88,26
+PRD-1323,Cooking Oil Brand-37,Canned Goods,7.83,5,19
+PRD-1324,Flour Brand-45,Produce,30.72,62,26
+PRD-1325,Chicken Brand-20,Produce,6.87,71,10
+PRD-1326,Soap Brand-23,Dairy,33.14,21,17
+PRD-1327,Salt Brand-12,Dairy,43.14,6,12
+PRD-1328,Bread Brand-1,Beverages,30.01,40,13
+PRD-1329,Rice Brand-19,Beverages,31.22,47,19
+PRD-1330,Soap Brand-30,Canned Goods,42.73,71,24
+PRD-1331,Bread Brand-17,Bakery,16.67,35,24
+PRD-1332,Milk Brand-12,Bakery,23.17,19,22
+PRD-1333,Rice Brand-14,Cleaning,38.64,0,13
+PRD-1334,Chicken Brand-15,Produce,8.78,38,19
+PRD-1335,Flour Brand-2,Meat,31.11,75,21
+PRD-1336,Apples Brand-7,Dairy,20.24,18,23
+PRD-1337,Cooking Oil Brand-47,Bakery,36.48,69,29
+PRD-1338,Cooking Oil Brand-4,Personal Care,10.28,43,26
+PRD-1339,Bread Brand-37,Meat,2.86,86,12
+PRD-1340,Rice Brand-28,Meat,22.13,100,10
+PRD-1341,Salt Brand-38,Dairy,38.52,36,27
+PRD-1342,Chicken Brand-6,Meat,15.27,39,15
+PRD-1343,Chicken Brand-31,Cleaning,7.29,69,22
+PRD-1344,Flour Brand-26,Produce,36.05,60,20
+PRD-1345,Chicken Brand-9,Beverages,2.62,13,13
+PRD-1346,Rice Brand-6,Canned Goods,11.92,12,27
+PRD-1347,Salt Brand-24,Meat,10.61,7,11
+PRD-1348,Cooking Oil Brand-19,Beverages,8.49,25,26
+PRD-1349,Flour Brand-17,Produce,14.77,32,14
+PRD-1350,Cooking Oil Brand-10,Meat,42.75,89,20
+PRD-1351,Biscuits Brand-29,Bakery,27.43,28,26
+PRD-1352,Bread Brand-32,Canned Goods,10.64,61,18
+PRD-1353,Milk Brand-10,Produce,14.67,56,10
+PRD-1354,Soap Brand-23,Beverages,32.79,34,23
+PRD-1355,Rice Brand-9,Bakery,10.38,100,15
+PRD-1356,Salt Brand-11,Dairy,23.19,98,26
+PRD-1357,Soap Brand-13,Meat,21.5,80,14
+PRD-1358,Juice Brand-47,Canned Goods,42.91,89,11
+PRD-1359,Chicken Brand-32,Bakery,26.13,17,21
+PRD-1360,Milk Brand-2,Beverages,19.54,92,15
+PRD-1361,Chicken Brand-37,Meat,6.17,69,15
+PRD-1362,Bread Brand-16,Beverages,40.44,7,18
+PRD-1363,Flour Brand-23,Meat,24.25,1,11
+PRD-1364,Flour Brand-7,Cleaning,32.69,6,30
+PRD-1365,Rice Brand-24,Dairy,39.47,63,10
+PRD-1366,Flour Brand-22,Produce,8.61,87,22
+PRD-1367,Rice Brand-8,Produce,27.72,19,19
+PRD-1368,Apples Brand-44,Meat,33.54,85,14
+PRD-1369,Apples Brand-19,Produce,27.5,34,29
+PRD-1370,Biscuits Brand-47,Produce,26.47,68,20
+PRD-1371,Chicken Brand-28,Cleaning,19.89,46,24
+PRD-1372,Salt Brand-3,Meat,16.46,49,16
+PRD-1373,Biscuits Brand-14,Meat,20.97,5,28
+PRD-1374,Apples Brand-26,Personal Care,26.64,69,21
+PRD-1375,Milk Brand-29,Bakery,5.97,0,23
+PRD-1376,Juice Brand-22,Dairy,21.88,27,23
+PRD-1377,Bread Brand-2,Cleaning,1.61,1,23
+PRD-1378,Rice Brand-50,Canned Goods,41.64,25,29
+PRD-1379,Milk Brand-16,Meat,11.2,46,30
+PRD-1380,Cooking Oil Brand-14,Beverages,5.59,66,25
+PRD-1381,Soap Brand-36,Produce,19.18,36,17
+PRD-1382,Bread Brand-34,Canned Goods,5.71,42,14
+PRD-1383,Sugar Brand-8,Meat,7.24,81,30
+PRD-1384,Sugar Brand-41,Bakery,26.01,57,16
+PRD-1385,Rice Brand-28,Meat,42.03,90,30
+PRD-1386,Flour Brand-28,Personal Care,17.16,38,24
+PRD-1387,Bread Brand-8,Beverages,13.69,87,20
+PRD-1388,Bread Brand-33,Canned Goods,41.16,69,27
+PRD-1389,Apples Brand-50,Meat,2.05,22,18
+PRD-1390,Flour Brand-9,Bakery,29.87,99,16
+PRD-1391,Juice Brand-16,Beverages,16.44,79,11
+PRD-1392,Biscuits Brand-48,Meat,33.22,46,25
+PRD-1393,Rice Brand-27,Bakery,30.92,17,29
+PRD-1394,Milk Brand-11,Cleaning,37.07,72,24
+PRD-1395,Apples Brand-48,Meat,5.53,77,25
+PRD-1396,Apples Brand-41,Cleaning,10.89,11,10
+PRD-1397,Soap Brand-44,Beverages,6.05,86,27
+PRD-1398,Flour Brand-48,Beverages,2.89,67,11
+PRD-1399,Milk Brand-33,Canned Goods,26.2,21,11
+PRD-1400,Salt Brand-43,Personal Care,19.43,64,19
+PRD-1401,Cooking Oil Brand-38,Beverages,32.33,27,20
+PRD-1402,Apples Brand-16,Personal Care,34.46,14,15
+PRD-1403,Rice Brand-3,Cleaning,26.54,35,28
+PRD-1404,Sugar Brand-50,Cleaning,26.45,46,24
+PRD-1405,Apples Brand-46,Beverages,22.99,65,19
+PRD-1406,Flour Brand-25,Produce,30.03,96,16
+PRD-1407,Soap Brand-21,Personal Care,34.4,92,11
+PRD-1408,Sugar Brand-27,Canned Goods,10.46,22,17
+PRD-1409,Bread Brand-15,Meat,36.87,79,24
+PRD-1410,Soap Brand-31,Meat,6.42,81,17
+PRD-1411,Biscuits Brand-2,Dairy,10.38,33,24
+PRD-1412,Cooking Oil Brand-35,Cleaning,34.55,92,18
+PRD-1413,Flour Brand-4,Cleaning,20.19,45,16
+PRD-1414,Sugar Brand-41,Canned Goods,6.14,25,24
+PRD-1415,Biscuits Brand-18,Beverages,38.56,19,26
+PRD-1416,Rice Brand-9,Meat,37.15,12,20
+PRD-1417,Chicken Brand-46,Bakery,2.87,98,18
+PRD-1418,Cooking Oil Brand-30,Canned Goods,22.24,94,20
+PRD-1419,Rice Brand-7,Dairy,43.39,6,29
+PRD-1420,Apples Brand-23,Produce,6.78,35,15
+PRD-1421,Rice Brand-10,Meat,25.52,57,20
+PRD-1422,Chicken Brand-38,Cleaning,15.42,14,19
+PRD-1423,Cooking Oil Brand-28,Beverages,37.77,99,16
+PRD-1424,Chicken Brand-21,Bakery,7.77,37,23
+PRD-1425,Juice Brand-8,Personal Care,12.76,85,10
+PRD-1426,Rice Brand-38,Bakery,33.64,55,10
+PRD-1427,Cooking Oil Brand-5,Personal Care,20.41,78,13
+PRD-1428,Milk Brand-2,Cleaning,7.39,11,23
+PRD-1429,Bread Brand-15,Personal Care,41.2,53,23
+PRD-1430,Milk Brand-36,Meat,3.23,75,20
+PRD-1431,Salt Brand-27,Dairy,26.56,1,27
+PRD-1432,Juice Brand-27,Bakery,29.86,62,27
+PRD-1433,Salt Brand-42,Meat,7.65,46,24
+PRD-1434,Apples Brand-7,Bakery,3.64,63,24
+PRD-1435,Bread Brand-18,Bakery,25.62,17,11
+PRD-1436,Bread Brand-21,Personal Care,38.22,21,18
+PRD-1437,Sugar Brand-44,Meat,7.01,38,20
+PRD-1438,Sugar Brand-20,Bakery,39.07,58,23
+PRD-1439,Flour Brand-47,Personal Care,37.39,17,19
+PRD-1440,Salt Brand-46,Beverages,4.18,21,13
+PRD-1441,Soap Brand-21,Personal Care,7.44,61,11
+PRD-1442,Milk Brand-26,Bakery,40.69,66,15
+PRD-1443,Bread Brand-36,Canned Goods,13.66,45,13
+PRD-1444,Rice Brand-29,Produce,25.01,80,20
+PRD-1445,Cooking Oil Brand-5,Canned Goods,22.83,67,17
+PRD-1446,Bread Brand-43,Personal Care,30.85,86,15
+PRD-1447,Juice Brand-4,Meat,24.93,12,20
+PRD-1448,Salt Brand-11,Canned Goods,13.78,55,21
+PRD-1449,Salt Brand-24,Meat,30.17,0,23
+PRD-1450,Biscuits Brand-35,Produce,33.02,6,10
+PRD-1451,Biscuits Brand-12,Canned Goods,43.34,73,29
+PRD-1452,Rice Brand-49,Meat,30.74,58,25
+PRD-1453,Milk Brand-15,Produce,22.11,81,19
+PRD-1454,Sugar Brand-46,Cleaning,14.71,7,18
+PRD-1455,Apples Brand-28,Cleaning,33.63,66,10
+PRD-1456,Salt Brand-35,Canned Goods,25.03,90,25
+PRD-1457,Cooking Oil Brand-24,Meat,1.64,41,12
+PRD-1458,Chicken Brand-14,Canned Goods,20.87,53,21
+PRD-1459,Sugar Brand-6,Dairy,11.99,23,13
+PRD-1460,Cooking Oil Brand-30,Meat,14.28,58,15
+PRD-1461,Flour Brand-48,Bakery,37.58,57,20
+PRD-1462,Milk Brand-7,Produce,28.69,46,17
+PRD-1463,Chicken Brand-35,Meat,14.66,47,21
+PRD-1464,Milk Brand-2,Personal Care,6.77,14,22
+PRD-1465,Rice Brand-12,Canned Goods,9.72,38,10
+PRD-1466,Chicken Brand-29,Meat,31.99,80,27
+PRD-1467,Flour Brand-41,Meat,7.85,71,21
+PRD-1468,Biscuits Brand-49,Beverages,6.84,86,10
+PRD-1469,Salt Brand-29,Canned Goods,41.03,51,10
+PRD-1470,Sugar Brand-8,Meat,3.66,25,23
+PRD-1471,Flour Brand-9,Produce,24.49,96,24
+PRD-1472,Apples Brand-16,Bakery,34.21,65,16
+PRD-1473,Chicken Brand-39,Cleaning,14.02,95,11
+PRD-1474,Chicken Brand-49,Personal Care,35.19,69,22
+PRD-1475,Apples Brand-43,Beverages,9.63,94,17
+PRD-1476,Soap Brand-36,Meat,24.18,24,27
+PRD-1477,Biscuits Brand-4,Bakery,39.48,10,20
+PRD-1478,Soap Brand-38,Produce,13.71,67,23
+PRD-1479,Juice Brand-28,Meat,39.68,55,10
+PRD-1480,Salt Brand-50,Meat,23.52,88,16
+PRD-1481,Cooking Oil Brand-23,Personal Care,31.27,82,25
+PRD-1482,Chicken Brand-49,Dairy,22.79,72,26
+PRD-1483,Rice Brand-50,Canned Goods,13.67,11,13
+PRD-1484,Bread Brand-14,Beverages,32.73,96,26
+PRD-1485,Soap Brand-41,Dairy,10.3,19,19
+PRD-1486,Rice Brand-30,Bakery,5.24,7,12
+PRD-1487,Apples Brand-32,Cleaning,7.71,28,22
+PRD-1488,Chicken Brand-24,Cleaning,3.0,42,10
+PRD-1489,Salt Brand-25,Canned Goods,36.09,72,29
+PRD-1490,Milk Brand-33,Canned Goods,38.08,24,22
+PRD-1491,Cooking Oil Brand-22,Personal Care,40.61,44,23
+PRD-1492,Rice Brand-32,Cleaning,28.2,48,30
+PRD-1493,Flour Brand-26,Canned Goods,3.58,99,20
+PRD-1494,Rice Brand-7,Canned Goods,28.14,85,17
+PRD-1495,Juice Brand-15,Dairy,41.37,18,15
+PRD-1496,Cooking Oil Brand-50,Bakery,34.02,49,28
+PRD-1497,Chicken Brand-37,Dairy,24.46,54,25
+PRD-1498,Biscuits Brand-45,Dairy,39.9,61,16
+PRD-1499,Flour Brand-24,Produce,32.32,92,14
+PRD-1500,Milk Brand-29,Produce,32.33,50,12
+PRD-1501,Salt Brand-14,Beverages,7.23,61,13
+PRD-1502,Soap Brand-28,Meat,2.45,51,30
+PRD-1503,Flour Brand-13,Produce,34.63,37,15
+PRD-1504,Rice Brand-25,Cleaning,15.87,42,24
